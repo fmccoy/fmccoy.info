@@ -1,0 +1,31 @@
+# Composer
+composer.lock
+content/vendor/
+
+# WordPress
+wp
+
+content/themes/*
+!content/themes/index.php
+
+content/plugins/*
+!content/plugins/index.php
+
+content/uploads/*
+!content/uploads/index.php
+!content/uploads/*.zip
+
+
+#Environments
+local/config.php
+#!local/index.php
+
+stage/config.php
+#!stage/index.php
+
+# Sublime
+*.sublime-workspace
+*.sublime-project
+
+# OSX
+.DS_Store
