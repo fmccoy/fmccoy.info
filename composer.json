@@ -33,7 +33,7 @@
   },
   "scripts": {
     "pre-autoload-dump": [
-      "cp content/mu-plugins/wordpress-helpers/loader.php content/mu-plugins/loader-wordpress-helpers.php"
+      "cp content/vendor/fmccoy/wordpress-helpers/example.php content/mu-plugins/loader-wordpress-helpers.php"
     ]
   }
 }
