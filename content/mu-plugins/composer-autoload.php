@@ -1,7 +1,6 @@
 <?php
 /*
  Plugin Name: Composer Autoloader
- Plugin URI: #
  Description: Adds a the composer autoload.php
  Author: Frank McCoy <frankmccoy.d@gmail.com>
  Version: 0.0.1
