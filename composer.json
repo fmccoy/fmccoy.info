@@ -21,7 +21,8 @@
     "composer/installers": "~1.0",
     "johnpbloch/wordpress-core-installer": "dev-master",
     "wordpress/wordpress": "3.9",
-    "fmccoy/wordpress-helpers": "dev-master"
+    "fmccoy/wordpress-helpers": "dev-master",
+    "johdesign/bootstrap-theme": "dev-master"
   },
   "extra": {
     "wordpress-install-dir": "wp",
